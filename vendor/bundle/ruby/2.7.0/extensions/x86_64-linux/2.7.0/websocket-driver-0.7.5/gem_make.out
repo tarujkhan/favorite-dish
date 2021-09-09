@@ -1,0 +1,15 @@
+current directory: /mnt/c/Users/tarujkhan/dev/flatiron/favorite-dish/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/usr/bin/ruby2.7 -I /usr/lib/ruby/2.7.0 -r ./siteconf20210908-6332-11in134.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/tarujkhan/dev/flatiron/favorite-dish/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /mnt/c/Users/tarujkhan/dev/flatiron/favorite-dish/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /mnt/c/Users/tarujkhan/dev/flatiron/favorite-dish/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210908-6332-1vxjw50
